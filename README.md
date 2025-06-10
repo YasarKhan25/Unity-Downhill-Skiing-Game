@@ -20,3 +20,34 @@ This is a **2D/3D downhill skiing game** developed using Unity and C#. The game 
 
 ## 📁 Project Structure
 
+
+---
+
+## ✨ Features
+
+- Smooth downhill skiing gameplay
+- Simple input and movement logic
+- Fully editable in Unity
+- Great starting point for learning Unity game development
+
+---
+
+## 🛠️ Built With
+
+- Unity Engine
+- C#
+- Windows (for executable build)
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE.txt) — feel free to use, modify, and share!
+
+---
+
+## 📩 Contact
+
+Feel free to reach out for feedback or collaboration opportunities.
+
+> Developed by **Yasar Khan**
